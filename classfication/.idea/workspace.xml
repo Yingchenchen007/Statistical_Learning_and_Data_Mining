@@ -11,20 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="HW1.ipynb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HW1.ipynb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HW1.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/test">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="6" />
+              <selected id="19" />
             </state>
           </provider>
         </entry>
@@ -41,12 +32,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HW1.ipynb" />
         <option value="$PROJECT_DIR$/.idea/test" />
+        <option value="$PROJECT_DIR$/HW1.ipynb" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="2037" />
     <option name="y" value="314" />
     <option name="width" value="861" />
@@ -112,7 +103,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2037" y="314" width="861" height="820" extended-state="0" />
+    <frame x="1912" y="-8" width="1296" height="936" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2703125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -171,17 +162,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HW1.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/test">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="6" />
+          <selected id="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HW1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="19" />
         </state>
       </provider>
     </entry>
